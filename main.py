@@ -15,7 +15,7 @@ ua_patterns = ['DiscordBot', '+https://discordapp.com', 'electron', 'discord', '
 MEMES = [
 
     # Rick roll
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "https://www.youtube.com/watch?v=-nm-Yj-ReDU",
 
     # Thunder Cross Split Attack
     "https://www.reddit.com/r/YouFellForItFool/comments/cjlngm/you_fell_for_it_fool/",
